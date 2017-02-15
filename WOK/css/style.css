@@ -1,0 +1,98 @@
+img.logo{
+	width: 50px;
+	height: 40px;
+	margin-top: 5px;
+}
+img#pasos{
+  width: 250px;
+  height: 250px;
+}
+span#logo{
+	font-family: 'Pacifico', cursive;
+ 
+  font-size:40px ;
+}
+span#logo b{
+  color: #333;
+}
+.colorBreadcrumb , li#user {
+	color:#333;
+}
+.colorFooter{background-color: #666;}
+.paddingFooter{padding-top: 10px;}
+body {
+display: flex;
+min-height: 100vh;
+flex-direction: column;
+}
+img#tamañoImg{
+  height: 150px;
+  width: 150px;
+}
+main {
+flex: 1 0 auto;
+}
+#userlog{
+  color:#333 !important;
+}
+ 
+img#menuLogo{
+  width: 25px;
+  height: 25px;
+ 
+
+}
+ .input-field .prefix.active {
+     color: #e53935;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+      color: #e53935;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #e53935;
+     box-shadow: 0 1px 0 0 #e53935;
+   }
+   .input-field input[type=tel]:focus + label {
+      color: #e53935;
+   }
+   /* label underline focus color */
+   .input-field input[type=tel]:focus {
+     border-bottom: 1px solid #e53935;
+     box-shadow: 0 1px 0 0 #e53935;
+   }
+    .input-field input[type=email]:focus + label {
+      color: #e53935;
+   }
+   /* label underline focus color */
+   .input-field input[type=email]:focus {
+     border-bottom: 1px solid #e53935;
+     box-shadow: 0 1px 0 0 #e53935;
+   }
+    .input-field input[type=password]:focus + label {
+      color: #e53935;
+   }
+   /* label underline focus color */
+   .input-field input[type=password]:focus {
+     border-bottom: 1px solid #e53935;
+     box-shadow: 0 1px 0 0 #e53935;
+   }
+ 
+    .input-field input[type=checkbox]:focus + label {
+      color: #e53935;
+   }
+   /* label underline focus color */
+   .input-field input[type=checkbox]:focus {
+     border-bottom: 1px solid #e53935;
+     box-shadow: 0 1px 0 0 #e53935;
+   }
+ 
+
+ #imgRedondeado{
+  border-radius: 20px;
+ }
+.colorCard{
+  color:#dd2c00 /*#ff8a80*/ !important;
+  font-weight: bold !important;
+}
